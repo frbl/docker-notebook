@@ -1,0 +1,6 @@
+pandas
+seaborn
+numpy
+cx_Oracle==5.2.1
+scikit-learn
+
